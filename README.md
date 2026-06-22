@@ -1,2 +1,2 @@
 # THE-SAXOPHON3-004
-This is an electronic digital saxophone from a raspberry pi [instert model], keyboard switches, cadded mechanisms, a breath sensor, a speaker, different modes, with an actual saxophone mouthpiece.
+**A versatile, state of the art, electronic digital saxophone equipped with the familiar mechanisms of a real saxophone, but with customizable sounds, relastic breath measurement and feedback, a light body, and the ability to not disturb your neighbors! This contains a Teensy 4.1 Microcontroller, keyboard switches with cadded mechanisms to make it feel more like a saxophone, a breath sensor to feel responsive, and a audio jack to plug in headphones or a speaker! Starting at $1000000 USD.**
